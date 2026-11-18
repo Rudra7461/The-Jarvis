@@ -1,0 +1,7 @@
+gemini_key.txt
+.env
+conversations/
+mistakes_log.json
+screenshots/
+__pycache__/
+*.pyc
